@@ -5,6 +5,7 @@
   International License. To view a copy of this license, visit
   http://creativecommons.org/licenses/by/4.0/.
 
+This workshop is being updated to be used specifically with Red Hat Identity Management. Over the next 2 months I will be converting a chapter at a time to convert all content to work with IdM terms and add references to official documentation and other sources.
 
 Introduction
 ============
